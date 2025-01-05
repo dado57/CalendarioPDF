@@ -35,4 +35,5 @@ Dopo aver caricato da Festivi.txt le date dei giorni festivi calcola la data del
 ### esempi di calendari 
 dal 2024 al 1030
 ### screenshot di un mese
-![immagine di un mese 2030-gennaio.png] (/main/CalendarioPDF/2030-gennaio.png)
+/2030-gennaio.png
+
