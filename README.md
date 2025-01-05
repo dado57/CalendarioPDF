@@ -32,8 +32,8 @@ Dopo aver caricato da Festivi.txt le date dei giorni festivi calcola la data del
 ### Libreria necessaria per creare il file PDF
 - reportlab
 
-### esempi di calendari 
+### Esempi di calendari 
 dal 2024 al 1030
-### screenshot di un mese
-/2030-gennaio.png
+### Screenshot di un mese
+![image CalendarioPDF](2030-gennaio.png)
 
