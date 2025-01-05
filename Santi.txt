@@ -1,0 +1,366 @@
+01-01, Madre di Dio
+02-01, S.Basilio
+03-01, Nome di Gesù
+04-01, S.Angela
+05-01, S.Giovanni
+06-01, Epifania
+07-01, S.Raimondo
+08-01, S.Massimo
+09-01, S.Giuliano
+10-01, S.Aldo
+11-01, S.Teodosio
+12-01, S.Bernardo
+13-01, S.Ilario
+14-01, S.Felice
+15-01, S.Mauro
+16-01, S.Marcello
+17-01, S.Antonio
+18-01, S.Margherita
+19-01, S.Mario
+20-01, S.Sebastiano
+21-01, S.Agnese
+22-01, S.Vincenzo
+23-01, S.Clemente
+24-01, S.Francesco
+25-01, Conver.S.Paolo
+26-01, SS Timoteo e Tito
+27-01, S.Angela
+28-01, S.Tommaso
+29-01, S.Costanzo
+30-01, S.Martina
+31-01, S.Giovanni Bosco
+01-02, S.Brigida
+02-02, Candelora
+03-02, S.Biagio
+04-02, S.Andrea
+05-02, S.Agata
+06-02, S.Paolo Miki
+07-02, S.Riccardo
+08-02, S.Girolamo
+09-02, S.Apollonia
+10-02, S.Scolastica
+11-02, BV Maria Lourdes
+12-02, S.Eulalia
+13-02, B.Giordano
+14-02, SS Cirillo e Metodio
+15-02, S.Claudio
+16-02, S.Giuliana
+17-02, Sette Fondatori
+18-02, S.Simeone
+19-02, S.Mansueto
+20-02, S.Amata
+21-02, S.Pier Damiani
+22-02, San Pietro Apostolo
+23-02, S.Policarpo
+24-02, S.Modesto
+25-02, S.Cesario
+26-02, S.Nestore
+27-02, S.Leandro
+28-02, S.Romano
+29-02, S.Osvaldo
+01-03, S.Albino
+02-03, S.Simplicio
+03-03, S.Tiziano
+04-03, S.Casimiro
+05-03, S.Lucio
+06-03, S.Perpetua
+07-03, S.Felicita
+08-03, S.Giovanni
+09-03, S.Francesca
+10-03, S.Macario
+11-03, S.Benedetto
+12-03, S.Luigi
+13-03, S.Rodrigo
+14-03, S.Matilde
+15-03, S.Longino
+16-03, S.Abramo
+17-03, S.Patrizio
+18-03, S.Cirillo
+19-03, S.Giuseppe
+20-03, S.Martino
+21-03, S.Nicola
+22-03, S.Benvenuto
+23-03, S.Turibio
+24-03, S.Caterina
+25-03, Annunciazione
+26-03, S.Ludgero
+27-03, S.Ruperto
+28-03, S.Gontrano
+29-03, S.Secondo
+30-03, S.Zosimo
+31-03, S.Beniamino
+01-04, S.Ugo
+02-04, S.Francesco
+03-04, S.Riccardo
+04-04, S.Isidoro
+05-04, S.Vincenzo
+06-04, S.Pietro
+07-04, S.Giovanni
+08-04, S.Dionigi
+09-04, S.Maria
+10-04, S.Fulberto
+11-04, S.Stanislao
+12-04, S.Zeno
+13-04, S.Ermenegildo
+14-04, S.Lamberto
+15-04, S.Damiano
+16-04, S.Bernadette
+17-04, S.Roberto
+18-04, S.Galdino
+19-04, S.Emma
+20-04, S.Agnese
+21-04, S.Anselmo
+22-04, S.Caio
+23-04, S.Giorgio
+24-04, S.Fedele
+25-04, S.Marco
+26-04, S.Cleto
+27-04, S.Zita
+28-04, S.Luigi
+29-04, S.Caterina
+30-04, S.Pio
+01-05, S.Giuseppe
+02-05, S.Atanasio
+03-05, SS Filippo Giacomo
+04-05, S.Floriano
+05-05, S.Gottardo
+06-05, S.Pietro
+07-05, S.Flavio
+08-05, BV Maria di Pompei
+09-05, S.Isaia
+10-05, S.Giovanni
+11-05, S.Fabio
+12-05, S.Pancrazio
+13-05, BV Maria di Fatima
+14-05, S.Mattia
+15-05, S.Isidoro
+16-05, S.Luigi
+17-05, S.Pasquale
+18-05, S.Felice
+19-05, S.Celestino V
+20-05, S.Bernardino
+21-05, S.Cristoforo
+22-05, S.Rita
+23-05, S.Giovanni
+24-05, Maria Ausiliatrice
+25-05, S.Gregorio
+26-05, S.Filippo
+27-05, S.Agostino
+28-05, S.Germano
+29-05, S.Bona
+30-05, S.Ferdinando
+31-05, Visitazione BV
+01-06, S.Giustino
+02-06, S.Marcellino
+03-06, S.Carlo
+04-06, S.Francesco
+05-06, S.Bonifacio
+06-06, S.Norberto
+07-06, B.Teresa
+08-06, S.Medardo
+09-06, S.Efrem
+10-06, S.Faustina
+11-06, S.Barnaba
+12-06, S.Gaspare
+13-06, S.Antonio
+14-06, S.Eliseo
+15-06, S.Vito
+16-06, S.Lutgardo
+17-06, S.Ranieri
+18-06, S.Gregorio
+19-06, S.Romualdo
+20-06, S.Silverio
+21-06, S.Luigi
+22-06, S.Tommaso
+23-06, S.Giuseppe
+24-06, Nativ.S.Giovanni
+25-06, S.Massimo
+26-06, S.Vigilio
+27-06, S.Cirillo
+28-06, S.Ireneo
+29-06, SS Pietro Paolo
+30-06, Primi Martiri
+01-07, S.Aronne
+02-07, Visitazione BV Maria
+03-07, S.Tommaso Apostolo
+04-07, S.Elisabetta
+05-07, S.Antonio
+06-07, S.Maria
+07-07, S.Claudio
+08-07, S.Procopio
+09-07, SS Agostino Zhao
+10-07, S.Felice
+11-07, S.Benedetto
+12-07, S.Giovanni
+13-07, S.Enrico
+14-07, S.Camillo
+15-07, S.Bonaventura
+16-07, BV Monte Carmelo
+17-07, S.Alessio
+18-07, S.Federico
+19-07, S.Simmaco
+20-07, S.Elia
+21-07, S.Lorenzo
+22-07, S.Maddalena
+23-07, S.Brigida
+24-07, S.Charbel
+25-07, S.Giacomo
+26-07, S.Anna Gioacchino
+27-07, S.Pantaleone
+28-07, S.Nazario
+29-07, S.Marta
+30-07, S.Pietro
+31-07, S.Ignazio
+01-08, S.Alfonso
+02-08, S.Eusebio
+03-08, S.Lidia
+04-08, S.Giovanni
+05-08, Basilica S.M.Maggiore
+06-08, Trasfigurazione
+07-08, S.Gaetano
+08-08, S.Domenico
+09-08, S.Teresa
+10-08, S.Lorenzo
+11-08, S.Chiara
+12-08, S.Giovanna
+13-08, SS Ponziano Ippolito
+14-08, S.Massimiliano
+15-08, Assunz. BV Maria
+16-08, S.Rocco
+17-08, S.Giacinto
+18-08, S.Elena
+19-08, S.Giovanni
+20-08, S.Bernardo
+21-08, S.Pio
+22-08, BV Maria
+23-08, S.Rosa
+24-08, S.Bartolomeo
+25-08, S.Luigi
+26-08, S.Alessandro
+27-08, S.Monica
+28-08, S.Agostino
+29-08, S.Giovanni
+30-08, S.Margherita
+31-08, S.Raimondo
+01-09, S.Egidio
+02-09, S.Elpidio
+03-09, S.Gregorio
+04-09, S.Rosalia
+05-09, S.Lorenzo
+06-09, S.Zaccaria
+07-09, S.Regina
+08-09, Nativ.BV Maria
+09-09, S.Pietro
+10-09, S.Nicola
+11-09, S.Protus
+12-09, Nome di Maria
+13-09, S.Giovanni
+14-09, Santa Croce
+15-09, BVM Addolorata
+16-09, SS Cornelio Cipriano
+17-09, S.Roberto
+18-09, S.Giuseppe
+19-09, S.Gennaro
+20-09, SS Andrea Kim Taegon
+21-09, S.Matteo
+22-09, S.Maurizio
+23-09, S.Pio
+24-09, BVM Mercede
+25-09, S.Cleofa
+26-09, SS Cosma Damiano
+27-09, S.Vincenzo
+28-09, S.Venceslao
+29-09, SS Michele Gabriele Raffaele
+30-09, S.Girolamo
+01-10, S.Teresa
+02-10, SS Angeli Custodi
+03-10, S.Gerardo
+04-10, S.Francesco
+05-10, S.Placido
+06-10, S.Bruno
+07-10, BVM Rosario
+08-10, S.Pelagia
+09-10, S.Dionigi
+10-10, S.Daniele
+11-10, S.Giovanni
+12-10, S.Serafino
+13-10, B.Alexandrina
+14-10, S.Callisto
+15-10, S.Teresa
+16-10, S.Edvige
+17-10, S.Ignazio
+18-10, S.Luca
+19-10, S.Paolo
+20-10, S.Leopardo
+21-10, S.Orsola
+22-10, S.G.Paolo II
+23-10, S.Giovanni
+24-10, S.Antonio
+25-10, S.Crisante
+26-10, S.Folco
+27-10, S.Evaristo
+28-10, SS Simone e Giuda
+29-10, S.Narciso
+30-10, S.Germano
+31-10, S.Quintino
+01-11, Tutti i Santi
+02-11, Defunti
+03-11, S.Martino
+04-11, S.Carlo
+05-11, S.Guido
+06-11, S.Leonardo
+07-11, S.Prosdocimo
+08-11, B.Giovanni
+09-11, Basilica Lateranense
+10-11, S.Leone
+11-11, S.Martino
+12-11, S.Giosafat
+13-11, S.Diego
+14-11, S.Nicola
+15-11, S.Alberto
+16-11, S.Geltrude
+17-11, S.Elisabetta
+18-11, Basiliche Pietro Paolo
+19-11, S.Fausto
+20-11, S.Edmondo
+21-11, Presentazione BVM
+22-11, S.Cecilia
+23-11, S.Clemente
+24-11, S.Andrea
+25-11, S.Caterina
+26-11, S.Leonardo
+27-11, S.Virgilio
+28-11, S.Giacomo
+29-11, S.Saturnino
+30-11, S.Andrea
+01-12, S.Eligio
+02-12, S.Bibiana
+03-12, S.Francesco
+04-12, S.Barbara
+05-12, S.Saba
+06-12, S.Nicola
+07-12, S.Ambrogio
+08-12, Immacolata BVM
+09-12, S.Juan
+10-12, S.Eulalia
+11-12, S.Damaso
+12-12, BVM Guadalupe
+13-12, S.Lucia
+14-12, S.Giovanni
+15-12, S.Virginia
+16-12, S.Adelaide
+17-12, S.Lazzaro
+18-12, S.Graziano
+19-12, S.Dario
+20-12, S.Liberato
+21-12, S.Pietro
+22-12, S.Francesca
+23-12, S.Giovanni
+24-12, S.Paola
+25-12, Natale
+26-12, S.Stefano
+27-12, S.Giovanni Apostolo
+28-12, SS Innocenti
+29-12, S.Tommaso
+30-12, S.Ruggero
+31-12, S.Silvestro

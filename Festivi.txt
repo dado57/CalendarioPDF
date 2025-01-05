@@ -1,0 +1,10 @@
+01-01, Capodanno
+06-01, Epifania
+25-04, Liberazione
+01-05, Festa del Lavoro
+02-06, Festa della Repubblica
+15-08, Ferragosto
+01-11, Ognissanti
+08-12, Immacolata
+25-12, Natale
+26-12, Santo Stefano
